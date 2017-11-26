@@ -1,9 +1,8 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 # Merida
 Hello Everybody,
 
-Just testing 23, 24, 25 ...
+Just testing 23, 24, 25, 26 ...
 
 
 <a href="#nesto-drugo">Nesto drugo link</a>
