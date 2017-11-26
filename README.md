@@ -2,9 +2,17 @@
 Hello Everybody,
 
 Just testing 1, 2 , 3, 4...
-<a href="nesto-drugo">Nesto drugo link</a>
+<a href="#nesto-drugo">Nesto drugo link</a>
 
-
+1
+2
+3
+4
+5
+6
+7
+8
+9
 
 
 
@@ -21,7 +29,7 @@ itd
 
 
 
-#Samo da vidim sta je
+#nesto-drugo
 bla, bla, bla
 <h2 id="nesto-drugo">Nesto-Drugo</h2>
 
