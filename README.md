@@ -13,8 +13,6 @@ Just testing 23, 24, 25, 26 ...
 
 3
 
-<a href="https://github.com/HowlJenkinsPendragon/hello-world.wiki.git">Na lokalnu wiki stranu</a>
-
 4
 
 5
@@ -52,6 +50,12 @@ itd
 bla, bla, bla
 
 <h2 id="nesto-drugo">Nesto-Drugo</h2>
+
+a
+
+b
+
+c
 
 <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
 
